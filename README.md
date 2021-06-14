@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bipin Thapa, an infosec enthusiast, wannabe hacker and freelance web developer with content writing hoobie. I love learning how things work. I shifted to breaking things after I realized I was betting in breaking than in creating while working as a web developer. LOL :joy: 
+I'm Bipin Thapa, an infosec enthusiast, wannabe hacker and freelance web developer with content writing hobby. I love learning how things work. I shifted to breaking things after I realized I was betting in breaking than in creating while working as a web developer. LOL :joy: 
 
 I spend most of my my time solving vulnerable labs, doing individual security researches and CTFs(more often).
 
