@@ -7,7 +7,7 @@ I spend most of my my time solving vulnerable labs, doing individual security re
 :mailbox_with_mail: Contact:
 
 [![Linkedin Badge](https://img.shields.io/badge/bipin-thapa-73bb09203?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bt.kaji/) [![Mail Badge](https://img.shields.io/badge/-@bt.kaji-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/bipin0x01/) [![Mail Badge](https://img.shields.io/badge/-bipinthapa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bt.kaji@gmail.com)
-[![TryHackMe_Badge](https://tryhackme.com/badge/80220)](https://tryhackme.com/p/SPIDER/)
+[![TryHackMe_Badge](https://img.shields.io/badge/TryHackMe-Profile-black?style=flat&logo=tryhackme&link=https://tryhackme.com/p/SPIDER/&color=red)](https://tryhackme.com/p/SPIDER/)
 
 
 
