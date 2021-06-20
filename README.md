@@ -7,7 +7,7 @@ I spend most of my my time solving vulnerable labs, doing individual security re
 :mailbox_with_mail: Contact:
 
 [![Linkedin Badge](https://img.shields.io/badge/bipin-thapa-73bb09203?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bt.kaji/) [![Mail Badge](https://img.shields.io/badge/-@bt.kaji-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/bipin0x01/) [![Mail Badge](https://img.shields.io/badge/-bipinthapa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bt.kaji@gmail.com)
-[![TryHackMe_Badge](https://tryhackme-badges.s3.amazonaws.com/SPIDER.png)](https://tryhackme.com/p/SPIDER)
+[![TryHackMe_Badge](https://tryhackme.com/badge/80220)](https://tryhackme.com/p/SPIDER/)
 
 
 
@@ -18,4 +18,4 @@ I spend most of my my time solving vulnerable labs, doing individual security re
 
 ![Bipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bipin0x01&show_icons=true&include_all_commits=true&count_private=true)
 
-![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=bipin0x01&layout=compact)
+![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=bipin0x01&layout=compact&color=black)
