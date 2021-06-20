@@ -16,5 +16,5 @@ I spend most of my my time solving vulnerable labs, doing individual security re
 
 
 
-![Bipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bipin0x01&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
+![Bipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bipin0x01&show_icons=true&include_all_commits=true&count_private=true).
 [![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=bipin0x01&layout=compact)]
