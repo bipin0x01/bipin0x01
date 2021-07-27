@@ -2,7 +2,7 @@
 
 I'm Bipin Thapa, an infosec enthusiast, wannabe hacker and freelance web developer with content writing hobby. I love learning how things work. I shifted to breaking things after realizing that I was better at breaking than in creating, while working as a web developer. LOL :joy: 
 
-I spend most of my my time solving vulnerable labs, doing individual security researches and CTFs(more often).
+I spend most of my my time solving vulnerable labs, doing independent security researches and CTFs(more often).
 
 :mailbox_with_mail: Contact:
 
