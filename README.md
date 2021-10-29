@@ -14,6 +14,6 @@ I spend most of my my time solving vulnerable labs, doing independent security r
 
 <a align= "center" href="https://github.com/bipin0x01">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bipin0x01&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<img align="right" height="350" width="400" src="https://i.imgur.com/NzdhEHG.jpg" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=bipin0x01&count_private=true&theme=radical&show_icons=true" />
