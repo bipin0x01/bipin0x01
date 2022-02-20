@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Porfolio Website Generator**
 
-- 🌱 I’m currently learning **NestJs, Docker, Kubernetes, Vuejs**
+- 🌱 I’m currently learning **NestJs, Docker, Kubernetes, Vuejs and some solidity**
 
 - 👯 I’m looking to collaborate on [Meroshare Bot](https://github.com/bipin0x01/meroshare-bot)
 
