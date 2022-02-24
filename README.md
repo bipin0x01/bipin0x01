@@ -33,4 +33,10 @@
 <img align="right" width="400px" height="250px" src="https://github-readme-stats.vercel.app/api?username=bipin0x01&count_private=true&theme=radical&show_icons=true"/>
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   6 hrs 29 mins   ██████████████████████▓░░   91.24 % 
+CSS          22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+JavaScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+```
 <!--END_SECTION:waka-->
