@@ -41,4 +41,4 @@ Bash             39 mins         █▓░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<img align="left" width="400px" height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=bipin0x01&theme=radical"/>
+<!-- <img align="left" width="400px" height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=bipin0x01&theme=radical"/> -->
