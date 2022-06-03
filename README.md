@@ -32,7 +32,8 @@
 <!--START_SECTION:waka-->
 
 
-<h3>CODING STATS (LAST 24HR)</h3>
+<h4>CODING STATS (LAST 24HR)</h4>
+
 ```text
 JSON             3 hrs 30 mins   ████████▒░░░░░░░░░░░░░░░░   33.28 %
 JavaScript       2 hrs 27 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
