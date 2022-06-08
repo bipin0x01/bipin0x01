@@ -2,9 +2,9 @@
 <p align="center"><img width="100%" src="https://pbs.twimg.com/profile_banners/1347870898565435392/1633544494/1500x500"></p> 
 <h4 align="left">A fullstack web developer with content writing hobby, an infosec enthusiast and wannabe hacker. I love learning how things work especially the datastreams and package handshakes. 😂 I spend my spare time solving vulnerable labs, doing independent security researches, CTFs, making cool web designs and learning new skills.</h4>
 
-- 🔭 I’m currently working on **Porfolio Website Generator** and **[WP Theme Detector and Downloader](https://github.com/bipin0x01/wp-theme-downloader)**
+- 🔭 I’m currently working on **Blockchain Marketplace**
 
-- 🌱 I’m currently learning **NestJs, Docker, Kubernetes, and Solidity**
+- 🌱 I’m currently learning **Web3**
 
 - 👯 I’m looking to collaborate on [Meroshare Bot](https://github.com/bipin0x01/meroshare-bot)
 
