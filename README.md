@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Portfolio Webmaker**
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Web3, Solidity, Blockchain**
 
 - 👯 I’m looking to collaborate on [Meroshare Bot](https://github.com/bipin0x01/meroshare-bot)
 
