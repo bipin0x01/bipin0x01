@@ -36,12 +36,14 @@
 <!--START_SECTION:waka-->
 
 ```text
+
 JavaScript   3 hrs 49 mins   ██████████▒░░░░░░░░░░░░░░   40.90 %
 Python       2 hrs 52 mins   ███████▓░░░░░░░░░░░░░░░░░   30.81 %
 TypeScript   1 hr 34 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
 Text         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 Git Config   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 Bash         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+
 ```
 
 <!--END_SECTION:waka-->
