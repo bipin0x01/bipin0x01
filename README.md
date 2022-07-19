@@ -36,9 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Assembly   4 hrs 8 mins    ███████████████████████▒░   93.14 %
-Python     18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-PHP        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
