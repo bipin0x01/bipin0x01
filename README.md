@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [Meroshare Bot](https://github.com/bipin0x01/meroshare-bot)
 
-- 👨‍💻 All of my projects are available at [https://bipinthapa00x1.com.np](https://bipinthapa.vercel.app)
+- 👨‍💻 All of my projects are available at [https://bipinthapa.vercel.app](https://bipinthapa.vercel.app)
 
 - 📝 I regularly write articles on [https://blog.bipinthapa101.com.np](https://blog.bipinthapa101.com.np)
 
