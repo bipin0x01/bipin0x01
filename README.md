@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **bipintube552@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/LNfoPCIaz](https://resume.io/r/LNfoPCIaz)
+- 📄 Know about my experiences [View RESUME](https://github.com/bipin0x01/bipin0x01/blob/main/BipinThapa-Resume-202208.pdf)
 
 
 <h2 align="center">Connect with me:</h2>
