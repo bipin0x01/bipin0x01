@@ -6,15 +6,15 @@
 
 - 👯 I’m looking to collaborate on [Meroshare Bot](https://github.com/bipin0x01/meroshare-bot)
 
-- 👨‍💻 All of my projects are available at [https://bipinthapa.vercel.app](https://bipinthapa.vercel.app)
+- 👨‍💻 All of my projects are available at [https://bipinthapa101.com.np](https://bipinthapa101.com.np)
 
 - 📝 I regularly write articles on [https://blog.bipinthapa101.com.np](https://blog.bipinthapa101.com.np)
 
-- 💬 Ask me about **React, NextJs, Web App Penetration Testing, MERN Stack**
+- 💬 Ask me about **React, NextJs, Web App Penetration Testing, MERN Stack, Inforamtion Security, Red Teaming**
 
 - 📫 How to reach me **bipintube552@gmail.com**
 
-- 📄 Know about my experiences [View RESUME](https://github.com/bipin0x01/bipin0x01/blob/main/BipinThapa-Resume-202208.pdf)
+- 📄 Know about my experiences [View RESUME](https://github.com/bipin0x01/bipin0x01/raw/main/BipinThapa_Resume.pdf)
 
 
 <h2 align="center">Connect with me:</h2>
