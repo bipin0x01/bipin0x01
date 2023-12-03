@@ -10,7 +10,7 @@
 </div>
 
 
-- 🔭 I’m currently working on **Design Patterns**
+- 🔭 I’m currently working on **Devops and AWS**
 
 - 👨‍💻 All of my projects are available at [https://bipinthapa101.com.np](https://bipinthapa101.com.np)
 
