@@ -1,4 +1,4 @@
-<p align="left">Efficient Fullstack Web Developer, undergoing Bachelor degree in Computer Security and more than 4 years of experience in challenging development environments. Excellent communication and organizational abilities with resourceful approach to solving diverse problems. Deadline-driven and knowledgeable professional with strong desire to learn and contribute to team success. Successful at improving usability, performance and functionality by applying skills in different JS and related frameworks. Collaborative and hardworking team player with critical thinking skills and systematic approach.</p>
+<p align="left"> I do Dev(Ops). Fullstack Developer proficient in TypeScript, AWS DevOps, and JavaScript frameworks. A coding connoisseur with a knack for enhancing usability, performance, and functionality.</p>
 
 <div>
     <h4>Get in Touch:</h4>
