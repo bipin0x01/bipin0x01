@@ -13,6 +13,4 @@
 
 - 👨‍💻 All of my projects are available at [https://bipinthapa101.com.np](https://bipinthapa101.com.np)
 
-- 📝 I regularly write articles on [https://blog.bipinthapa101.com.np](https://blog.bipinthapa101.com.np)
-
 - 📫 How to reach me **bipintube552@gmail.com**
