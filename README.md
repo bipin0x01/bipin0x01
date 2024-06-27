@@ -9,7 +9,7 @@
 </div>
 
 
-- 🔭 I’m currently working on **Web3 and Defi**
+- 🔭 I’m currently working on **Improving Software Architecture Skills**
 
 - 👨‍💻 All of my projects are available at [https://bipinthapa101.com.np](https://bipinthapa101.com.np)
 
